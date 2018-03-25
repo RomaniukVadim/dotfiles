@@ -1,0 +1,18 @@
+[submodule "gentoo"]
+	path = gentoo
+	url = git://github.com/RomaniukVadim/gentoo_config.git
+[submodule "awesome"]
+	path = awesome
+	url = git://github.com/RomaniukVadim/awesome.git
+[submodule "emacs"]
+	path = emacs
+	url = git://github.com/RomaniukVadim/dot_emacs.git
+[submodule "xmonad"]
+	path = xmonad
+	url = git://github.com/RomaniukVadim/xmonad.git
+[submodule "bspwm"]
+	path = bspwm
+	url = git://github.com/RomaniukVadim/dot_bspwm.git
+[submodule "i3wm"]
+	path = i3wm
+	url = git://github.com/RomaniukVadim/dotfiles_i3wm.git
